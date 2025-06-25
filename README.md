@@ -34,6 +34,8 @@ We encourage everyone to contribute to this valuable resource! Here's how:
 | Columbia University | Both | Ongoing | [Link](https://apply.engineering.columbia.edu/register/feewaiverform) | Proof of your affiliation required |
 | Notre Dame | Both | Check Program Deadline | [Link](https://graduateschool.nd.edu/admissions/application-requirements/application-fee-and-waiver/) | Submit your completed request for a fee waiver well in advance of your program’s application deadline. Allow at least three (3) business days for review and processing during peak application periods |
 | Cornell | Both | Ongoing | [Link](https://gradschool.cornell.edu/admissions/application-steps/pay-fees/graduate-school-pathways-programs/) | Submit your application with the fee waiver request at least three days before your application deadline. |
+| UC Berkeley | U.S. citizens or current permanent residents only | Ongoing | [Link](https://grad.berkeley.edu/admissions/steps-to-apply/requirements/fee-waiver/) | ... |
+| MIT | U.S. citizens only | Ongoing | [Link](https://www.eecs.mit.edu/academics/graduate-programs/admission-process/graduate-admissions-information-letter/) | ... |
 | ... | ... | ... | ... | ... |
 
 ## Notes
@@ -45,7 +47,8 @@ We encourage everyone to contribute to this valuable resource! Here's how:
 * If the fee waiver information is on a separate page, link to *that specific page*, not the general admissions page.
 * If you are unsure about any information, please leave a note in the "Specific Requirements" column or open an "Issue" on GitHub to discuss it.
 * **Important:** Waiver deadlines are subject to change.  If a deadline listed is from the previous year, it likely applies to the previous application cycle.  Please update the deadline when the new application window opens.
+* Fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSdIPKXcdhEU_o6LBRUWnMv-BUVKd05jzw1EOQC7Bz0WhXSaGA/viewform) to seek proof of affiliation with Black in AI. 
 
 ## Issues
 
-If you have any questions or suggestions, or encounter any problems, please open an "Issue" on GitHub. This is the best way to communicate and track progress. You can find the "Issues" tab at the top of this page.
+If you have any questions or suggestions or encounter any problems, please open an "Issue" on GitHub. This is the best way to communicate and track progress. You can find the "Issues" tab at the top of this page.
