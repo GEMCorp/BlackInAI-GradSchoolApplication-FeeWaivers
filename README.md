@@ -35,7 +35,7 @@ We encourage everyone to contribute to this valuable resource! Here's how:
 | Notre Dame | Both | Check Program Deadline | [Link](https://graduateschool.nd.edu/admissions/application-requirements/application-fee-and-waiver/) | Submit your completed request for a fee waiver well in advance of your program’s application deadline. Allow at least three (3) business days for review and processing during peak application periods |
 | Cornell | Both | Ongoing | [Link](https://gradschool.cornell.edu/admissions/application-steps/pay-fees/graduate-school-pathways-programs/) | Submit your application with the fee waiver request at least three days before your application deadline. |
 | UC Berkeley | U.S. citizens or current permanent residents only | Ongoing | [Link](https://grad.berkeley.edu/admissions/steps-to-apply/requirements/fee-waiver/) | ... |
-| MIT | U.S. citizens only | Ongoing | [Link](https://www.eecs.mit.edu/academics/graduate-programs/admission-process/graduate-admissions-information-letter/) | ... |
+| MIT | U.S. citizens only | Ongoing | [Link](https://www.eecs.mit.edu/academics/graduate-programs/admission-process/graduate-admissions-information-letter/) | A new (2025/26) fee waiver page will likely appear on the webpage of the shared link. |
 | ... | ... | ... | ... | ... |
 
 ## Notes
